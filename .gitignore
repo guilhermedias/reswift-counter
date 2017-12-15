@@ -1,0 +1,7 @@
+// Exclusions
+.DS_Store
+Carthage/
+*.xcodeproj/*
+
+// Exceptions
+!*.xcodeproj/project.pbxproj
